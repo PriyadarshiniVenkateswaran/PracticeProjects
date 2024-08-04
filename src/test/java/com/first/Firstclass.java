@@ -9,6 +9,8 @@ public class Firstclass {
 	public void method2() {
 		System.out.println("method2");
 	}
-
+private void methodNew() {
+System.out.println("New Method");
+}
 	
 }
